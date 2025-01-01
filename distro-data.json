@@ -220,12 +220,12 @@
             ],
             "Name": "oracular-raw",
             "FirendlyName": "oracular raw",
-            "armhfurl": "https://github.com/23xvx/udroid-download/releases/download/V3R97/oracular-raw-armhf.tar.gz",
-            "armhfsha": "51524e835ee59bfde035c870e9d326e373c86e2178cdf63db5081f0095145921",
-            "amd64url": "https://github.com/23xvx/udroid-download/releases/download/V3R97/oracular-raw-amd64.tar.gz",
-            "amd64sha": "de941a91fc2a3142a1857f5e415cca0cc5c3e6bd9b50dc1666fba6e9a556bcaa",
-            "aarch64url": "https://github.com/23xvx/udroid-download/releases/download/V3R97/oracular-raw-arm64.tar.gz",
-            "aarch64sha": "354d42d43867460bbac3471d6b2391742fe4eaba49bae35b117411c591080313"
+            "armhfurl": "https://github.com/23xvx/udroid-download/releases/download/V3R98/oracular-raw-armhf.tar.gz",
+            "armhfsha": "6998de13913472a267b7bd66a39abad4b54336c80694377e31a730639e578bfc",
+            "amd64url": "https://github.com/23xvx/udroid-download/releases/download/V3R98/oracular-raw-amd64.tar.gz",
+            "amd64sha": "a74582097877b9c0dfdbfb62fe35cc1f0d6f058b586bd825fc4b3d02b9fd86c9",
+            "aarch64url": "https://github.com/23xvx/udroid-download/releases/download/V3R98/oracular-raw-arm64.tar.gz",
+            "aarch64sha": "ba464ba3d97a1f7c50866bfd65d99c9dcf90cc03a36c1fc0c2b98c67b2bdc1e1"
         }
     }
 }
